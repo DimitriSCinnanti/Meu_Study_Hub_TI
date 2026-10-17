@@ -30,3 +30,43 @@ Meu_Study_Hub_TI
 ├── VERSIONAMENTO.md
 ├── PLANEJAMENTO_REPOSITORIO.md
 └── README.md
+
+Disciplinas atuais
+Neste semestre estou cursando:
+- Bootcamp I
+- Projeto Integrador IV
+- Segurança Digital
+- Sistemas em Tempo Real e Embarcados
+- Testes e Qualidade de Software
+Cada disciplina possui sua própria pasta para facilitar a organização de materiais, atividades, anotações e entregas.
+Projetos
+A área de projetos reúne trabalhos acadêmicos e projetos pessoais desenvolvidos durante minha graduação.
+Também foi criado um projeto de página web para utilização no GitHub Pages, como parte da etapa de versionamento do Study Hub.
+Versionamento
+O projeto utiliza Git para acompanhar as alterações realizadas no repositório.
+Versões
+v1.0
+- Criação inicial do Study Hub
+- Organização das disciplinas
+- Criação da estrutura de pastas
+v1.1
+- Melhorias na organização
+- Atualização dos arquivos README
+- Inclusão de documentação
+v1.2
+- Criação do portfólio web
+- Implementação do GitHub Pages
+- Inclusão do histórico de versões
+GitHub Pages
+A pasta docs contém os arquivos utilizados para publicação do site através do GitHub Pages.
+O site apresenta de forma resumida meu perfil, disciplinas, projetos e organização do Study Hub.
+Tecnologias utilizadas
+- Git
+- GitHub
+- GitHub Pages
+- HTML
+- CSS
+Contato
+Dimitri Sofoulis Cinnanti
+E-mail: dimitri.cinnanti@gmail.com
+GitHub: https://github.com/DimitriSCinnanti
