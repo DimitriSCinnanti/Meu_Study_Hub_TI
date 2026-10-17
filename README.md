@@ -1,72 +1,150 @@
 # Meu Study Hub TI
 
-Meu nome é **Dimitri Sofoulis Cinnanti** e sou estudante de Ciência da Computação no UniCEUB.
+## Sobre mim
 
-Este repositório foi criado para organizar meus materiais acadêmicos, projetos, atividades e minha evolução ao longo do curso.
+Meu nome é **Dimitri Sofoulis Cinnanti** e sou estudante de **Ciência da Computação no UniCEUB**.
 
-Apesar da minha formação estar ligada à tecnologia, meu foco profissional atualmente está principalmente em **e-commerce, empreendedorismo e negócios digitais**. Atuo diretamente com a **Cinnanti E-commerce** e a **Compre Já**, utilizando também conhecimentos de tecnologia para organização de processos e desenvolvimento de projetos.
+Criei este repositório para organizar meus materiais acadêmicos, atividades, projetos e acompanhar minha evolução durante a graduação.
+
+Atualmente, meu principal foco profissional está ligado a **e-commerce, empreendedorismo e negócios digitais**, atuando diretamente com a **Cinnanti E-commerce** e a **Compre Já**.
+
+---
 
 ## Objetivo
 
-O objetivo deste Study Hub é manter meus conteúdos acadêmicos e projetos organizados em um único repositório, utilizando Git e GitHub para versionamento e documentação.
+O **Meu Study Hub TI** tem como objetivo reunir em um único lugar:
 
-Nesta etapa, o repositório também passou a contar com uma página publicada através do **GitHub Pages**.
+- Disciplinas da graduação;
+- Atividades e trabalhos acadêmicos;
+- Anotações e resumos;
+- Projetos acadêmicos e pessoais;
+- Certificados;
+- Documentação e versionamento.
+
+O projeto também é utilizado para colocar em prática conhecimentos de **Git, GitHub, Markdown, HTML, CSS e GitHub Pages**.
+
+---
 
 ## Estrutura do repositório
 
 ```text
-Meu_Study_Hub_TI
-├── 01_Apresentacao_e_Perfil
-├── 02_Disciplinas_Atuais
-│   ├── Bootcamp_I
-│   ├── Projeto_Integrador_IV
-│   ├── Seguranca_Digital
-│   ├── Sistemas_em_Tempo_Real_e_Embarcados
-│   └── Testes_e_Qualidade_de_Software
-├── 03_Projetos_e_Certificados
-│   └── Projetos
-├── docs
+Meu_Study_Hub_TI/
+│
+├── 01_Apresentacao_e_Perfil/
+│
+├── 02_Disciplinas_Atuais/
+│   ├── Bootcamp_I/
+│   ├── Projeto_Integrador_IV/
+│   ├── Seguranca_Digital/
+│   ├── Sistemas_em_Tempo_Real_e_Embarcados/
+│   └── Testes_e_Qualidade_de_Software/
+│
+├── 03_Projetos_e_Certificados/
+│   └── Projetos/
+│
+├── docs/
+│
 ├── CHANGELOG.md
 ├── VERSIONAMENTO.md
 ├── PLANEJAMENTO_REPOSITORIO.md
 └── README.md
+```
 
-Disciplinas atuais
+---
+
+## Disciplinas atuais
+
 Neste semestre estou cursando:
-- Bootcamp I
-- Projeto Integrador IV
-- Segurança Digital
-- Sistemas em Tempo Real e Embarcados
-- Testes e Qualidade de Software
-Cada disciplina possui sua própria pasta para facilitar a organização de materiais, atividades, anotações e entregas.
-Projetos
+
+- **Bootcamp I**
+- **Projeto Integrador IV**
+- **Segurança Digital**
+- **Sistemas em Tempo Real e Embarcados**
+- **Testes e Qualidade de Software**
+
+Cada disciplina possui uma área própria para organização dos conteúdos desenvolvidos durante o semestre.
+
+---
+
+## Projetos
+
 A área de projetos reúne trabalhos acadêmicos e projetos pessoais desenvolvidos durante minha graduação.
-Também foi criado um projeto de página web para utilização no GitHub Pages, como parte da etapa de versionamento do Study Hub.
-Versionamento
-O projeto utiliza Git para acompanhar as alterações realizadas no repositório.
-Versões
-v1.0
-- Criação inicial do Study Hub
-- Organização das disciplinas
-- Criação da estrutura de pastas
-v1.1
-- Melhorias na organização
-- Atualização dos arquivos README
-- Inclusão de documentação
-v1.2
-- Criação do portfólio web
-- Implementação do GitHub Pages
-- Inclusão do histórico de versões
-GitHub Pages
-A pasta docs contém os arquivos utilizados para publicação do site através do GitHub Pages.
-O site apresenta de forma resumida meu perfil, disciplinas, projetos e organização do Study Hub.
-Tecnologias utilizadas
+
+Nesta etapa do **Bootcamp I**, também foi desenvolvida uma página web para apresentar o Study Hub através do **GitHub Pages**.
+
+---
+
+## GitHub Pages
+
+A página web do Study Hub utiliza:
+
+- HTML
+- CSS
+- GitHub Pages
+
+Os arquivos utilizados para publicação estão armazenados na pasta:
+
+```text
+docs/
+├── index.html
+├── style.css
+└── assets/
+```
+
+---
+
+## Versionamento
+
+O projeto utiliza **Git e GitHub** para registrar e acompanhar sua evolução.
+
+| Versão | Alterações |
+| --- | --- |
+| **v1.0** | Criação da estrutura inicial do Study Hub |
+| **v1.1** | Organização e atualização da documentação |
+| **v1.2** | Desenvolvimento do Portfolio Web e preparação para o GitHub Pages |
+
+As principais alterações também podem ser acompanhadas pelo arquivo `CHANGELOG.md`.
+
+---
+
+## Tecnologias utilizadas
+
 - Git
 - GitHub
 - GitHub Pages
+- Markdown
 - HTML
 - CSS
-Contato
-Dimitri Sofoulis Cinnanti
-E-mail: dimitri.cinnanti@gmail.com
-GitHub: https://github.com/DimitriSCinnanti
+
+---
+
+## Experiência profissional
+
+Minha principal experiência profissional atualmente está relacionada ao **e-commerce**.
+
+Atuo nas operações da **Cinnanti E-commerce** e da **Compre Já**, trabalhando com áreas como:
+
+- Marketplaces;
+- Cadastro de produtos;
+- Estoque;
+- Fornecedores;
+- Logística;
+- Atendimento ao cliente;
+- Pós-venda;
+- Gestão de operações digitais.
+
+A graduação em Ciência da Computação complementa essa experiência através do contato com tecnologia, sistemas e desenvolvimento de soluções digitais.
+
+---
+
+## Contato
+
+**Dimitri Sofoulis Cinnanti**  
+Ciência da Computação — UniCEUB
+
+**E-mail:** dimitri.cinnanti@gmail.com  
+**GitHub:** [github.com/DimitriSCinnanti](https://github.com/DimitriSCinnanti)
+
+---
+
+> Este repositório será atualizado ao longo da graduação com novos projetos, atividades e materiais acadêmicos.
