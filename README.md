@@ -142,9 +142,17 @@ A graduação em Ciência da Computação complementa essa experiência através
 **Dimitri Sofoulis Cinnanti**  
 Ciência da Computação — UniCEUB
 
-**E-mail:** dimitri.cinnanti@gmail.com  
-**GitHub:** [github.com/DimitriSCinnanti](https://github.com/DimitriSCinnanti)
+**E-mail:**  
+dimitri.cinnanti@gmail.com
+
+**GitHub:**  
+[github.com/DimitriSCinnanti](https://github.com/DimitriSCinnanti)
+
+**LinkedIn:**  
+[linkedin.com/in/dimitri-cinnanti-8b5918444](https://www.linkedin.com/in/dimitri-cinnanti-8b5918444)
+
+**Repositório:**  
+[Meu Study Hub TI](https://github.com/DimitriSCinnanti/Meu_Study_Hub_TI)
 
 ---
-
 > Este repositório será atualizado ao longo da graduação com novos projetos, atividades e materiais acadêmicos.
